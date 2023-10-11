@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chicken Disease Classification Project
 
 This project utilizes convolutional neural networks to classify chicken diseases. The primary motivation behind this project was to sharpen deployment skills, though it serves as a practical foundation for tasks of similar nature.
@@ -168,3 +169,7 @@ Dive deeper into the topics covered in this project:
 ## 🤝 Contribution & Feedback
 
 Feedback, issues, and pull requests are always welcome. For major changes, please open an issue first to discuss what you would like to change. Your contributions will help enhance the project further.
+=======
+# Chicken-Disease-Classification
+
+>>>>>>> 3760e1e46ffbf42c6f1878eb773f8101c7333fc9
